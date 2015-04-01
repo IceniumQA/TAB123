@@ -1,0 +1,40 @@
+{
+  "ProjectName": "TAB123",
+  "ProjectGuid": "8cb30df2-a3c9-415b-9b1a-e91b6bb84572",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TAB123",
+  "DisplayName": "TAB123",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{3de1c4ac-e5a7-4701-b130-36d703ff30c0}",
+  "WP8ProductID": "{eb65947c-a971-41c5-bc56-cffa83682fe6}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TAB123",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
